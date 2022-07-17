@@ -1,0 +1,13 @@
+.Project {
+  position: absolute;
+  top: 1300px;
+  left: 200px;
+  font-size: 50px;
+  font-weight: bold;
+  color: #fdf6f0;
+  font-family: sans-serif;
+  padding-bottom: 100px;
+  margin: 0px;
+  width: 50%;
+  text-shadow: 2px 2px grey;
+}

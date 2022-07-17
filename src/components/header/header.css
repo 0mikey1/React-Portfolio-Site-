@@ -1,0 +1,37 @@
+.headerTitleLg {
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  font-size: 80px;
+  font-weight: bold;
+  color: #fdf6f0;
+  font-family: "Raleway", sans-serif;
+  text-shadow: 3px 3px #345b63;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.headerTitleLg h1 {
+  font-size: 50px;
+  color: gold;
+}
+
+.Button {
+  transition: all 0.5s ease;
+  color: #fff;
+  border: 3px solid white;
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 1;
+  font-size: 17px;
+  background-color: transparent;
+  padding: 10px;
+  outline: none;
+  border-radius: 4px;
+  box-shadow: 10px 5px 5px #d4ecdd;
+}
+.Button:hover {
+  color: #001f3f;
+  background-color: gold;
+}
